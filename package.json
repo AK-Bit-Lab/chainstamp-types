@@ -1,0 +1,26 @@
+{
+  "name": "chainstamp-types",
+  "version": "0.1.1",
+  "description": "TypeScript types for the ChainStamp ecosystem.",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "keywords": [
+    "chainstamp",
+    "stacks",
+    "types",
+    "typescript"
+  ],
+  "author": "AdekunleBamz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AK-Bit-Lab/chainstamp-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AK-Bit-Lab/chainstamp-types/issues"
+  },
+  "homepage": "https://github.com/AK-Bit-Lab/chainstamp-types#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
